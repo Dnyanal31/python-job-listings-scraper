@@ -8,7 +8,7 @@ This project is a beginner-friendly Python web scraper that collects job listing
 The scraper extracts job titles, company names, locations, and job URLs and saves the collected information into a CSV file.
 
 ## Project URL
-https://realpython.github.io/fake-jobs/
+https://roadmap.sh/projects/job-listings-scraper
 
 ## Technologies Used
 - Python
